@@ -1,0 +1,39 @@
+.featured{margin: 4rem 0;}
+.featured__work{
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
+.featured__details h4 {
+    font-weight: 700;
+    color: #21243D;
+}
+.featured__time {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.featured__time div{
+    font-weight: 900;
+    color: #fff;
+    background: #21243D;
+    font-size: 1rem;
+    width: fit-content;
+    height: fit-content;
+    padding: 0 .5rem;
+    border-radius: 2rem;
+}
+.featured__time p {
+    color: #8695A4;
+}
+.featured__details p {
+    line-height: 24px;
+    font-weight: 400;
+}
+
+/* Media Query(Tablets) */
+@media screen and (max-width: 1024px) {
+    .featured__work{
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}

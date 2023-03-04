@@ -1,0 +1,16 @@
+.header__blog {
+    font-weight: 600;
+    margin-bottom: 3rem;
+}
+.blog__post{
+    margin-bottom: 2rem;
+}
+.blog__post h4 {
+    font-weight: 500;
+}
+.blog__post p {
+    text-align: left;
+}
+.express {
+    color: #8695A4;
+}

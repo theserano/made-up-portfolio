@@ -1,0 +1,37 @@
+.nav__container{
+    display: grid;
+    justify-content: end;
+    padding: .5rem;
+}
+.nav__links {
+    display: flex;
+    gap: 2rem;
+    justify-content: space-around;
+    padding: .8rem 1.5rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+    background: #EDF7FA;
+    margin: 0 2rem;
+    box-shadow: 0px 8px 9px -3px rgba(0,0,0,0.1);
+}
+.nav__links .link {
+    text-decoration: none;
+    color: rgb(26, 25, 25);
+    font-weight: 500;
+    transition: var(--transition);
+}
+.nav__links .link:hover {
+    transform: translateY(-5px);
+}
+
+/* Media Query (Tablets) */
+@media screen and (max-width: 1024px) {
+    .nav__container{
+        justify-content: center;
+    }
+}
+@media screen and (max-width: 600px) {
+    .nav__container{
+        justify-content: center;
+    }
+}
