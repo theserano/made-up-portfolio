@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/made-up-portfolio/static/css/main.5d0d67e3.css",
+    "main.js": "/made-up-portfolio/static/js/main.bfa4de8e.js",
+    "static/media/Ellipse1.png": "/made-up-portfolio/static/media/Ellipse1.827844632d6f012ee1c2.png",
+    "static/media/Rectangle32.png": "/made-up-portfolio/static/media/Rectangle32.5e0567fbd31b2e9b3f43.png",
+    "static/media/Rectangle30.png": "/made-up-portfolio/static/media/Rectangle30.dd1dbcf3db18e69a56fe.png",
+    "static/media/Rectangle34.png": "/made-up-portfolio/static/media/Rectangle34.4a2923b0c00ebbc92c83.png",
+    "index.html": "/made-up-portfolio/index.html",
+    "main.5d0d67e3.css.map": "/made-up-portfolio/static/css/main.5d0d67e3.css.map",
+    "main.bfa4de8e.js.map": "/made-up-portfolio/static/js/main.bfa4de8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d0d67e3.css",
+    "static/js/main.bfa4de8e.js"
+  ]
+}
